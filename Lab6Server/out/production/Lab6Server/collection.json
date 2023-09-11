@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1,
+    "name": "1",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "2023-06-15",
+    "area": 11.0,
+    "numberOfRooms": 1,
+    "furnish": "DESIGNER",
+    "view": "STREET",
+    "transport": "FEW",
+    "house": {
+      "name": "1",
+      "year": 1,
+      "numberOfFlatsOnFloor": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 3,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 4,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 5,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 6,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 7,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 8,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 9,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 10,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 11,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 12,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 13,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 14,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 15,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 16,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 17,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 18,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 19,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 20,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 21,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 22,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 23,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 24,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 25,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 26,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 27,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 28,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  },
+  {
+    "id": 29,
+    "name": "3",
+    "coordinates": {
+      "x": 3,
+      "y": 3
+    },
+    "creationDate": "2023-06-15",
+    "area": 3.0,
+    "numberOfRooms": 3,
+    "furnish": "FINE",
+    "view": "NORMAL",
+    "transport": "LITTLE",
+    "house": {
+      "name": "3",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    }
+  }
+]
